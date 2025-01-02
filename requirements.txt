@@ -1,0 +1,5 @@
+Django
+djangorestframework
+langchain
+langchain_community
+langchain_groq

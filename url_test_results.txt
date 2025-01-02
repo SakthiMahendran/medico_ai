@@ -1,0 +1,1 @@
+ERROR: User registration - 404 - {"detail":"Not Found"}
